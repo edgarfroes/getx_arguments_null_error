@@ -1,6 +1,6 @@
 # getx_arguments_null_error
 
-A new Flutter project.
+Code to demonstrate an error in [this issue](https://github.com/jonataslaw/getx/issues/676)
 
 ## Getting Started
 
